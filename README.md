@@ -1,5 +1,6 @@
 # Yoradio для JC3248W535C on 0.9.434(m) version
 Для русской локализации заменяем файл fonts/glcdfont.h по адресу: pio\libdeps\yoradio-esp32s3\GFX Library for Arduino\src\font
+для ESP32-4848S040 смотри бранч 4848S040
 
 Порт проекта [Yoradio] для модуля JC3248W535C с дисплеем AXS15231B.
 ![photo_2025-06-20_19-28-12](https://github.com/user-attachments/assets/9805d905-fc45-4f9a-80c0-085f194a99e8)
