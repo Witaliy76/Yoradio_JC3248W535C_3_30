@@ -1,3 +1,13 @@
+### 🔴 Дальнейшее развитие этого проекта будет тут
+
+https://github.com/Witaliy76/Yoradio_RGB_Panel
+
+---
+
+### 🔴 Further development of this project will be here
+
+https://github.com/Witaliy76/Yoradio_RGB_Panel
+
 ВНИМАНИЕ!! эта версия в работе, замечены глюки:
 1. не подключается к WIFI если точка доступа включена в список не первой позицией..
 
